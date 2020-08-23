@@ -1,6 +1,6 @@
 # clf2bag
 
-Transfer .clf file to .bag file for ROS
+Convert .clf file to .bag file for ROS
 
 CSDN Link
 
